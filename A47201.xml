@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theses philosophicæ quas A.P.D.O.M. ingenui aliquot adolescentes laureæ magisterialis candidati, in celeberrimo Collegio Marischaliano Universitatis Carolinæ Abredenensis ad diem 23 Junii, publice propugnabunt horis &amp; loco solitis. Præside Roberto Ketho.</title>
+            <author>Keith, Robert, fl. 1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47201</idno>
+            <idno type="STC">Wing K237</idno>
+            <idno type="STC">ESTC R218584</idno>
+            <idno type="EEBO-CITATION">99830163</idno>
+            <idno type="PROQUEST">99830163</idno>
+            <idno type="VID">34613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34613)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2032:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theses philosophicæ quas A.P.D.O.M. ingenui aliquot adolescentes laureæ magisterialis candidati, in celeberrimo Collegio Marischaliano Universitatis Carolinæ Abredenensis ad diem 23 Junii, publice propugnabunt horis &amp; loco solitis. Præside Roberto Ketho.</title>
+                  <author>Keith, Robert, fl. 1687.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>excudebat Ioannes Forbesius; Urbis &amp; Universitatis typographus,</publisher>
+                  <pubPlace>Abredeis :</pubPlace>
+                  <date>anno Dom. 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philosophy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34613:1" rendition="simple:additions"/>
+            <p>
+               <hi>THESES PHILOSOPHICAE,</hi> Quas A. P. D. O. M. ingenui aliquot Adoleſcentes Laureae Magiſterialis Candidati, In celeberrimo <hi>Collegio</hi> MARISCHALLANO <hi>Univerſitatis CAROLINAE</hi> ABRE<g ref="char:EOLhyphen"/>DENENSIS ad diem 23 <hi>Junii, Publice propugnabunt horis &amp; loco ſolitis.</hi>
+            </p>
+            <p>Praeſide <hi>ROBERTO KETHO.</hi>
+            </p>
+            <q>
+               <p>Intereſt quidem plurimum, qua cauſae, quo fine, qua intentione, quid fiat: ſed ea quae conſtat eſſe peccata, nullo bonae cauſae obtentu, nullo quaſi bono fine, nulla velut bona intentione, facienda ſunt.</p> 
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Diligentiâ ac indefeſſo ſtudio plus profecerunt ingenia mediocria quam ſumma, ſine his. Haec laus, hic apex ſapientiae eſt, ea viventem appetore, quaemorienti forent appetenda. Quae ſcire, nec datur, nec fas eſt, docta eſt ignorantia. Nunquid ideo ne<g ref="char:EOLhyphen"/>gandum quod apertum eſt, quia cnmprehendi non potest quod occultum eſt; Debemus enim non plus ſapere quam oportet.</p> 
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Rerum corporearum u<g ref="char:EOLhyphen"/>ſus diuturnior, faſtidium parit; animam igitur ad res intellectuales, maximè ad Deum convertamus. Permittas ipſis expendere Numinibus, quid, &amp;c.</p>
+               <bibl> 
+                  <hi>Poet Eth.</hi>
+               </bibl>
+            </q>
+            <q>
+               <lg>
+                  <l>Homo ſum nihilque humani a me alienum puto.</l>
+                  <l>Humanum eſt errare Diabolieum, perſeverare.</l>
+               </lg>
+               <bibl>
+                  <hi>Sen.</hi>
+               </bibl>
+            </q>
+            <p>ABREDEIS, Excudebat IOANNES FORBESIUS, URBIS &amp; UNIVERSITATIS Typographus, <hi>Anno Dom.</hi> 1687.</p>
+         </div>
+         <div type="frontispiece">
+            <pb n="2" facs="tcp:34613:2"/>
+            <p>
+               <figure>
+                  <head>I 7 R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <lg>
+                     <l>Animata imago REX putandus eſt DEI.</l>
+                     <l>Nulla fides Regni ſociis omniſque poteſtas</l>
+                     <l>Impatiens conſortis erit. —</l>
+                  </lg>
+                  <figDesc>royal British blazon or coat of arms</figDesc>
+               </figure>
+               <figure>
+                  <q>
+                     <l>Doctrinae radices amarae, fructus dulces.</l>
+                     <bibl>
+                        <hi>Bion.</hi>
+                     </bibl>
+                  </q>
+                  <q>
+                     <p>Vita hominis ſine literis mors est, &amp; vivi hominis ſepultura.</p>
+                     <bibl>
+                        <hi>Cic.</hi>
+                     </bibl>
+                  </q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb n="3" facs="tcp:34613:2"/>
+            <head>Illuſtriſſimo, Conſultiſſimo, Eruditiſſimoque Domino, D. GEORGIO LOCKHART à CARNWARTH; Equiti Aurato Ornatiſſimo. Supremae CURIAE FORENSIS Praeſidi Digniſſimo, Auguſtiſſimi REGIS Noſtri CONSILIARIO Intimo, SCACCARII Domino Fideliſſimo.</head>
+            <head type="sub">
+               <hi>Literarum &amp; Literatorum fautori propenſiſſimo.</hi> MAECENATI <hi>ſuo perpetua fide Colendiſſimo,</hi> Patrono <hi>aeternum ſuspiciendo</hi> S. I. D. S.</head>
+            <opener>
+               <salute>CLARISSIME MAECENAS.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Emo opinor vult, nec quispiam juſtè vitio vertere poterit, quod primitiis hiſce, veſ<g ref="char:EOLhyphen"/>tro uſus ſim patrocinio; cum verè plurimos honoris merearis titulos: <hi>Oriun<g ref="char:EOLhyphen"/>dus</hi> quippe, ex antiqua admodum &amp; honorabili <hi>Familia de LEE,</hi> quae frugifera tanquam arbor, ſuos emiſit ramos (&amp; ut ſpiro perpetuò emittet) vera pietate, ineſſabili facundiâ, firmâ amicitia, &amp;c. ſemper virentes; hoc praeſertim aevo, quo (plurimos inter alios) Clariſſimus veſter floruit frater natu maximus, <hi>D. Gul. Lockhart</hi> à <hi>Lee. S. D. N. CAROLI II.</hi> Beatae memoriae, ad Gallum Summus &amp; fideliſſimus Legatus, ſicut Avunculus Legatus fuiſſet, <hi>Guſt. Adolphi,</hi> in cujus Bellorum (Hiſt. a <hi>Galliaz.</hi> conſcrip.) de iis admodum honorificè fertur. It adhuc florent diuque floreant) Veſtra, &amp; alterius generoſiſſimi fratris <hi>D. Ioannis Lockhart à Caſtelhill,</hi> Dominationes ampliſſimae: Hic enim, (adhuc juvenis) per multos retro an<g ref="char:EOLhyphen"/>nos, ob ſingularem aequitatem aliaſque quamplurimas virtutes perquam eximias ad ampliſſi<g ref="char:EOLhyphen"/>mi. <hi>Curiae</hi> tum <hi>Forenſis</hi> tum <hi>Juſtitiariae, Senatoris</hi> Dignitatem a <hi>Summis</hi> &amp; <hi>Po<g ref="char:EOLhyphen"/>tenti ſſimis hujus Regni MONARCHIS,</hi> provectus eſt: tanquam in majus virtu<g ref="char:EOLhyphen"/>tis praemium, necaon, propter officia, in splendidiſſimis illis muniis, ſumma cum fidelitate &amp; diligenti, <hi>Regi</hi> &amp; ſubditis, praeſttita, inter Intimos <hi>Regis Conſiliarios</hi> aliquamdiu conſtitutus eſt.</p>
+            <p>Sed fentilis nimis eſt hic campus, huic natalium splendori ita immorari, cum (non mi<g ref="char:EOLhyphen"/>nus vero quam vulgo) dici ſoleat, Quod <hi>ſola virtute nobilitetur homo;</hi> Veſtro enim <hi>(Il<g ref="char:EOLhyphen"/>luſtriſſ. Dom.)</hi> honorabili natalitio, ſumma animi Divinitùs obvenere dona, à te ita ex<g ref="char:EOLhyphen"/>culta,
+<pb n="4" facs="tcp:34613:3"/>ut exinde paſſim (ſicut nunc &amp; olim.) ita ſemper per quam illuſtris extiteris, praeſentim in regnis hiſce tribus: Regnante enim, <hi>S. D. N. CAROLO II. ter</hi> &amp; <hi>amplius foeli<g ref="char:EOLhyphen"/>ciſſimae memoriae,</hi> propter eximiam veſtram peritiam, in jure, cum Patriae Municipali, num omnium gentium univerſali, ejus juſſu, Regiam (pro tempore) in <hi>Anglia</hi> adiiſti, ad maxima Regis, ejuſque Regni Antiquiſſimi (nempe <hi>Scotiae</hi>) negotia conſultanda &amp; tractan<g ref="char:EOLhyphen"/>da; ubi <hi>Angli</hi> (et ſi Alienigenae) aequum de Te (illorum licet, gentem in noſtram, genio parum benevolo) teſtimonium praebere placidè inducti ſunt <hi>Quod ſciz. inter hujus aevi Juriſ<g ref="char:EOLhyphen"/>conſultos &amp; Oratores Primas obtineres.</hi> Hinc etiam abſque Aulicorum ſolicitatione, aut mediis quibuſcunque aliis à Te adhibitis; Apud <hi>Auguſtiſſimum Monarcham, IACOBUM VII.</hi> jam foeliciter admodum Regnantem <hi>(cui D O. M. Cumulatiſſimè benedicat, diuque incolumem hiſce Regnis ſoſpitet)</hi> propter ſingulare veſtrum meri<g ref="char:EOLhyphen"/>tum; tanto in honore fueris, ut ex Advocatorum Albo, non ad Senatoris ordinarii, ſed <hi>Prae<g ref="char:EOLhyphen"/>ſidis Honoratiſſimi dignitatem,</hi> in <hi>Suprema Scotiae Curia Forenſi</hi> (quae omnium ubi<g ref="char:EOLhyphen"/>que gentium Celeberrima habetur) <hi>per ſaltum vocatus ſis:</hi> in qua, Regio Beneplacito ſemel cognito, ita, apud Te <hi>Regis</hi> benevolentia, &amp; ſtudium Juſtitiae in Patria, abſque perſonarum respectu, adminiſtrandae viguere, ut Poſthabito grandi, priſtinae admodum Honorabilis ſunctio<g ref="char:EOLhyphen"/>nis commodo ac lucro (Idolo, mundi avaros, ſummopere faſcinante), ubi tunc inter reliquos illius ordinis, ita resplenduiſti, <hi>Velut inter ignes Luna minores;</hi> praeſentem dignitatem, Regis, Regnique emolumento, lubenti animo amplexus ſis: quâ, tanta cum aequitate, affabi<g ref="char:EOLhyphen"/>litate, &amp; induſtriâ uteris, ut Subditorum, quod tali, tantoque nunc deſtituantur Advocato, damnum (aliter minimè ferendum) haud appareat, cum Te virum, in ſingulis vitae munias ſemper clariſſimum, nunc vero judicem ac Praeſidem aequiſſimum, juſtitiae aſſerto<g ref="char:EOLhyphen"/>rem &amp; vindicem invictiſſimum habeant.</p>
+            <p>Nec adulationis notam veremur, aſſerendo Te, juſtitiâ, uti judicem, <hi>Ariſtidem:</hi> peritiâ, uti jurisconſultum, <hi>Tribonianum:</hi> aut quemvis <hi>Pandectatum, Codicum,</hi> aut <hi>Novella<g ref="char:EOLhyphen"/>rum</hi> compilatorem: Eloquentiâ uti oratorem, ipſum <hi>Ciceronem,</hi> idque multis paraſangis, ſu<g ref="char:EOLhyphen"/>perare: Praeterea tanta adeoque concinna, virtutum cum humanarum tum Divinarum in Te, harmonia &amp; compages refulgent, ut <hi>S. D. N. Regi</hi> plurimum arrideat (quod Ampliſſimam veſtram (sponte ſua) Dominationem in praefatam evexerit dignitatem) necnon, ubditis ordi<g ref="char:EOLhyphen"/>nis cujuſcunque; quibus, proculdubio, in votis eſt, ut veſtra in ea, niſi in majorem ſingu<g ref="char:EOLhyphen"/>baris meriti remunerationem plus ultra promovearis, perennis ſit duratio.</p>
+            <p>Donique, veſtra erga <hi>Deum</hi> Pietas, Regem ſidelitas, natalium splendor, amplitudo opum copioſa, promptiſſimum &amp; ſublime ingenium, acerrimum judicium, ſingularis prudentia, admiranda ſacundia, incredibilis memoria, ſtupenda eruditio, praeſertim in jure omnigeno, non modo alliciunt ſed imperant ut (veſtra licet infra mertia ex libero tamen noſtro delectu) ſub benigniſſimam hanc tutelam noſmet recipiamus: At in hoc inſtituto ingreſſus ſanè diffici<g ref="char:EOLhyphen"/>lis, ſed exitus pene impoſſibilis, ideoque abrumpere cogor; licet dicta non ſint quae po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uerim (utpote puſillum idque tantum veritatis, &amp; humili admodum, prae feſtinatione, ſtylo,) &amp; multo minus quae debuerim. Digneris tamen <hi>(Colendiſſime Maecenas)</hi> exile hoc (aſt inſi<g ref="char:EOLhyphen"/>mulatum) deditiſſimi affectus &amp; ſempiternae obſervantiae <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Lubenti animo ſuſcipere (nos etiam in benigniſſimam veſtram recipire clientelam) cum deſint mihi alia benevo<g ref="char:EOLhyphen"/>lentiae specimina, quae tanto reponerem Patrono; hic, dantis animum, non donum aſpice, nam in <hi>Magnis voluiſſe ſat eſt:</hi> &amp; ſi unquam penes nos fuerit, debitum noſtrum erga Te ulterius proſequi officium, <hi>amore, more, ore, re</hi> animitus perſolvere non deſinemus: &amp; interim, ut vobiſcum omnia ſint ſemper fauſta, <hi>Dominatio etiam veſtra Ampliſſima,</hi>
+               <pb n="5" facs="tcp:34613:3"/>Regis, Regnique emolumento, &amp; Amicorum ſolatio, à <hi>D. O. M.</hi> diu conſervetur incolumis ex animo optant &amp; toto corde comprecantur.</p>
+            <closer>
+               <signed>Ampliſſimae &amp; Conſultiſſimae veſtrae Dominationis devotiſſimus &amp; ſubjectiſſimus Cliens, ROBERTUS KEITH PRAESES.</signed>
+               <signed>Et veſtrae dignitatis Cultores Devotiſſimi, <hi>CANDIDATI.</hi>
+                  <list>
+                     <item>
+                        <hi>Abraham Davidſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Arbuthnott,</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Chriſtie,</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Jameſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Youngſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Andreas Fraſer,</hi>
+                     </item>
+                     <item>
+                        <hi>Andreas Lawſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Andreas Milne,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthurus Birnie,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthurus Sympſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Carolus Irvine,</hi>
+                     </item>
+                     <item>
+                        <hi>Carolus Lergo,</hi>
+                     </item>
+                     <item>
+                        <hi>Carolus Maitland,</hi>
+                     </item>
+                     <item>
+                        <hi>David Hendrie,</hi>
+                     </item>
+                     <item>
+                        <hi>D. David Ogilvie</hi> de Barras,</item>
+                     <item>
+                        <hi>David Shivez,</hi>
+                     </item>
+                     <item>
+                        <hi>Georgius Iohnſton,</hi>
+                     </item>
+                     <item>
+                        <hi>Georgius Leith</hi>
+                     </item>
+                     <item>
+                        <hi>D. Georgius Monroe</hi> de New<g ref="char:EOLhyphen"/>more,</item>
+                     <item>
+                        <hi>Gulielmus Cheapland,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Cumming,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Dingwall,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Falconar,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Innes,</hi>
+                     </item>
+                     <item>
+                        <hi>Guliemus Iohnſton,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Keith</hi> major,</item>
+                     <item>
+                        <hi>Gulielmus Keith</hi> minor,</item>
+                     <item>
+                        <hi>Gulielmus Leſlie</hi> major,</item>
+                     <item>
+                        <hi>Gulielmus Leſlie</hi> minor,</item>
+                     <item>
+                        <hi>Guliemus Ligertwood,</hi>
+                     </item>
+                     <item>
+                        <hi>Gulielmus Mitchell,</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobus Anderſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobus Cruickſhank,</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobus Dowglas</hi> de Tilwhillie,</item>
+                     <item>
+                        <hi>Jacobus Philp,</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobus Seton,</hi>
+                     </item>
+                     <item>
+                        <hi>Jacobus Watt,</hi>
+                     </item>
+                     <item>
+                        <hi>D. Ioannes Allardes</hi> de eodem,</item>
+                     <item>
+                        <hi>Ioannes Barclay,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Benzie,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Burnet,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Carnegie,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Couts,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Duff,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Falconar,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Laing,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Maitland,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Roſs,</hi>
+                     </item>
+                     <item>
+                        <hi>Iſaac Fullarton,</hi>
+                     </item>
+                     <item>
+                        <hi>Patricius Gordon,</hi>
+                     </item>
+                     <item>
+                        <hi>Patricius Straquhan,</hi>
+                     </item>
+                     <item>
+                        <hi>Patricius Jameſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Robertus Arbuthnott,</hi>
+                     </item>
+                     <item>
+                        <hi>Robertus Jameſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Robertus Forbes,</hi> F. D. de M.</item>
+                     <item>
+                        <hi>Robertus Leſlie,</hi>
+                     </item>
+                     <item>
+                        <hi>Robertus Roſe,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Burnet,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Chatfeild</hi> Angliae.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="theses">
+            <head>THESES PHILOSOPHICAE.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ihil mentem humanam majori aſſicit voluptate, quam cognitio veritatis: cujus tamen purae tantum &amp; ritè diſpoſitae mentes ſunt capaces; ad hoc requititur, ut noſmet liberare conemur, non tantum ab in<g ref="char:EOLhyphen"/>ſantiae &amp; educationis praejudiciis, (ſicut monet <hi>Carteſius</hi>) ſed etiam à cordis immunditiis, iiſque non carnalibus tantum, ſed etiam ſpiri<g ref="char:EOLhyphen"/>tualibus, <hi>Cujuſmodi ſunt, ſuperbia,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>curioſitas,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> Ex hac ſentina emanarunt, omnia opinionum monſtra, quae mun<g ref="char:EOLhyphen"/>dum ſubjugarunt univerſum, veritati omnia, non minus quam ſibi-invicem repugnan<g ref="char:EOLhyphen"/>tia; ſincerus &amp; caſtus veritatis amor, optima eſt diſpoſirio ad eam aſſequendam &amp; fruen<g ref="char:EOLhyphen"/>dam. <hi>Sinterum eſt niſi vas quodcunque infundis aceſſit.</hi>
+            </p>
+            <pb n="6" facs="tcp:34613:4"/>
+            <p n="2">II. Nimia eſt quorundam ingeniorum arrogantia, dum omnia ſuis modulis metiri praeſumant: peranguſta admodum &amp; finita res eſt mens humana, &amp; nihil revera com<g ref="char:EOLhyphen"/>prehendit. Eadem eſt ratio intellectus ac ſenſuum, objecta vel nimis longinqua vel. nimis propinqua, valde magna vel valde parva, nimis opaca vel nimis lucida, ocu<g ref="char:EOLhyphen"/>li noſtri nequeunt diſcernere: ſenſus enim nobis dantur, ut eorum ope, ea quae cor<g ref="char:EOLhyphen"/>pori &amp; vitae animali, utilia ſunt, à noxiis dignoſcere valeamus, ita pariter intellectus noſter, formatur ad veritates utiles &amp; neceſſarias percipiendas, non, ut ad omnia volitet; ac proinde ideae &amp; principia, quae menti noſtrae indita ſunt ad has veritates dignoſcendas, ſi aſſumantur ad ea metienda quae captum ſuperant humanum, non minus abſurdum eſt, quam ſi quis iis menſuris, quibus ſpatia quaedam terrena di<g ref="char:EOLhyphen"/>menſus eſt, coeli expanſum &amp; ſyderum orbes dimetiri, poſſe ſomniaret, aut ſcaphâ, qua flumen trajecit, in Oceanum ſolveret, &amp; ad Indos tenderet. Ita ſemper homi<g ref="char:EOLhyphen"/>nes ingenia torquere poſſunt, <hi>circa duplicationem cubi, quadraturam circuli, compoſitionem materiae, verum principium unionis mentis &amp; corporis, modum conciliandi praeſcientiam di<g ref="char:EOLhyphen"/>vinam cum libertate humana &amp;c.</hi> Et nihil ſolidi invenient in quo mens acquieſcere poſſit.</p>
+            <p n="3">III. Hoc non obſtante, magna poteſt mens, ſi ordine debito procedat, in veritate inveſtiganda; ſicut enim corpus humanum, licet machina valdè debilis, per idoneam tamen aliarum machinarum applicationem, magna perficere poteſt, <hi>ut oculi vitrorum ope, manus rotarum, trochlearum, &amp;c. Ita intellectus congruo &amp; ordinato ſuarum idearum &amp; principiorum uſu, tanquam tot machinis, in cognitione veritatis multum promovere poteſt, ut videri eſt, in Algebra;</hi> &amp; horum inventio &amp; ordinatio eſt ſummum in ſcientiis deſideratum.</p>
+            <p n="4">IV. In hoc, conſiſtit vera logica, hoc eſt mentis operationes ritè dirigere in veri<g ref="char:EOLhyphen"/>tate inveſtiganda; cujus gradus quoſdam foeliciter admodum aſſequutns eſt <hi>Carteſius,</hi> in multis tamen hallucinatus, <hi>nempe, de idea animae, natura quietis, principio cohaeſio<g ref="char:EOLhyphen"/>nis corporum, legibus motus, natura lucis</hi> &amp;c.</p>
+            <p n="5">V. Demonſtratio exiſtentiae Dei, ab ejus idea petita, licet in ſe concluſiva ſatis, cum tamen ſit valdè abſtracta &amp; metaphiſica, communem hominum captum ſupe<g ref="char:EOLhyphen"/>rat; ac proinde cum inviſibilia Dei, Divina <hi>ſciz.</hi> exiſtentia, omnipotentia, ſapientia, &amp; bo<g ref="char:EOLhyphen"/>nitas, per ea quae videntur, clarè manifeſtentur, ac de mundi hujus viſibilis exiſtentia, nemo unquam ſeriò dubitaverit, argumentis ab operibus divinis deſumptis precipuè inſiſten<g ref="char:EOLhyphen"/>dum eſt; haec enim mentem magis vividè tangunt et afficiunt.</p>
+            <p n="6">VI. Solus Deus eſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ejus perfectiones omnes ſunt infinitae. Deus equi<g ref="char:EOLhyphen"/>dem licet neceſſariò cognoſcat veritates ad propriam naturam, eſſentiam, &amp; attri<g ref="char:EOLhyphen"/>buta ſpectantes, eſt tamen liber ad infinitas ſuas perfectiones contemplandas, hoc, illo, aut alio perfectiſſimo modo, ſunt enim illarum contemplandarum modi infiniti, &amp; divini inde emanantis gaudii, ſcaturigines infinitae; at entium omnium creatorum eſſentiae, à Divina penitus ſunt diſtinctae: in ſuis igitur naturis, nec aeternae, nec im<g ref="char:EOLhyphen"/>mutabiles, neque independentes ſunt, ſecundum vanum Scholaſticorum delirium; ſed ideae, eſſentiae, &amp; proprietates entium omnium &amp; veritates eò ſpectantes <hi>(excep<g ref="char:EOLhyphen"/>tor ſolo. Deo)</hi> ſive ſpiritus ſint ſive corpora, eorumque motus figurae, <hi>&amp;c.</hi> à Dei liberrima voluntate, qui ea cognoſcit quia vult, penitus dependent; ſpeculationes igitur <hi>D. Malebranch</hi> eum in periculoſiſſimum deduxerunt errorem, dum aſſerit, <hi>nos rerum ideas in natura contemplari Divina,</hi> quaſi a Divinis neceſſariò reſultarent perrectionibus. Haec &amp; alia illius ſentimenta viam ſternere videntur monſtroſis <hi>B. Spinozae</hi> commentis.</p>
+            <pb n="7" facs="tcp:34613:4"/>
+            <p n="7">VII. Ut <hi>D. Malebranch</hi> in dubium praedictam ſuam vocaret ſententiam, <hi>nos ſciz. in Deo omnia videre,</hi> ſat rationis habuiſſe videtur, quod inde ſe ductum invenerat, ut affirmaret, omnem noſtram certitudinem de ſpirituum &amp; corporum exiſtentia <hi>(Deo &amp; animî propria exceptis)</hi> tantum à fide, verbo Divino fretâ, dependere: ita ut ſecun<g ref="char:EOLhyphen"/>dum ejus principia, Philoſophus Ethnicus, praeter Deum &amp; mentem propriam, nihil ſolidè admittere debeat; ſublimatum ſanè <hi>Scepticiſmi</hi> genus, quod ad ipſam certitudi<g ref="char:EOLhyphen"/>nem fidei, &amp; revelationis demoliendam vergit, &amp; naturaliter ad <hi>Syflema Spinoſianum</hi> ducit: neque aliam meretur reſponſionem quam dedit <hi>Hierophilus Medicus S. Emperici</hi> ar<g ref="char:EOLhyphen"/>gumento contra motum. E contra, aſſerimus nos, Deum ita creaſſe &amp; diſpoſuiſſe intellectum humanum, ad percipienda &amp; intelligenda, ab eo creata, ut nil clarè diſ<g ref="char:EOLhyphen"/>tinctèque percipere valeat, niſi ſecundum naturam ei à Deo datam; clara igitur diſ<g ref="char:EOLhyphen"/>tinctaque ſubſtantiae alicujus perceptio, abundè probat Deum ei exiſtentiam dediſſe, alicujus modi etiam, talis perceptio, oſtendit pariter Deum ejus ſubſtantiam ita mo<g ref="char:EOLhyphen"/>dificabilem fin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide: Deum autem ita noſtrum formaſſe intellectum inde conſtat, quod ſimus conſcii nos pro libitu ſubſtantiarum claras diſtinctaſque non poſſe formare ideas, intendamus enim intellectum quantum valemus, nullam claram &amp; diſtinctam ideam, niſi (<hi>Cogitantium</hi> aut <hi>Extenſorum</hi>) efformare poſſumus. Hinc itaque mundum mate<g ref="char:EOLhyphen"/>rialem exiſtere ſatis conſtat, non tantum propter ſenſuum teſtimonium, verum etiam propter claram &amp; diſtinctam in nobis materiae ideam, ejuſque capacitatis infinitarum penè modificationum.</p>
+            <p n="8">VIII. Omninm maximè abſurdum &amp; horrendum eſt <hi>Syſtema B. Spinozae,</hi> qui quaſi ſub larva demoſtrationis Mathematicae, mundo imponere &amp; ſuadere conatur, <hi>unum tantum dari ſubſtantiam, infinitis praeditam attributis, quorum duo ſunt, extenſio &amp; cogitatio; nec non in mundo corpora omnia &amp; ſpiritus, diverſas tantum eſſe modificatio<g ref="char:EOLhyphen"/>nes horum duorum attributorum pertinentium ad unam illam ſubſtantiam (nempe Deum) omnia etiam ita eſſentialiter in illius contineri natura, &amp; ita neceſſario ab ea emanare, ut ex idea Trianguli neceſſariò ſequitur, omnes ejus angulos eſſe duobus rectis aequales;</hi> quae om<g ref="char:EOLhyphen"/>nia ſallis &amp; ambiguis ab ipſo conflictis ſuperſtruit definitior ibus &amp; axiomatis: Nil ma<g ref="char:EOLhyphen"/>gis claris &amp; diſtinctis rerum ideis contrariatur; ſubſtantiarum utpotè diſtinctarum in<g ref="char:EOLhyphen"/>victum eſt argumentum, quod unam ſine alia clarè &amp; diſtinctè percipere valeamus, ita nobis eſt clara &amp; d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtincta extenſionis idea ſine cogitatione, &amp; è contra; ſunt ergo ſubſtantiae diſtinctae: cum etiam modus ſit tantùm ſubſtantia variè modificata, indè certò conſtat, modi ideam ſub<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe neceſſariò continere ideam ſubſtantiae cujus eſt modus, &amp; omnium ei eſſentialium; <hi>quemadmodum Triangulum ſub ſe ideam extenſionis omniumque ei eſſentialium, complectitur, nimirum quod ſit diviſibilis, menſurabilis, partes habens extra partes, cogitationem non includem, &amp;c.</hi> Triangulum ergo concipi nequit ſine omni eo quod eſt extenſioni eſſentiale, <hi>ſi igitur circulus, Triangulus, lapis, arbor &amp;c.</hi> Eſſen<g ref="char:EOLhyphen"/>tiae Divinae eſſent modi, in ſuis continerent ideis, quicquid Naturae Divinae eſt eden<g ref="char:EOLhyphen"/>tiale, <hi>eſſetque ita Triangulum infinitum, neceſſari exiſtens, cogitans, &amp;c.</hi> Quo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il abſur<g ref="char:EOLhyphen"/>dius; Dei etiam idea omnes perfectiones, omnem imperfectionem neceſſariò excludentes, involvit, <hi>at extenſio neceſſario complectitur diviſibilitatem, partes extra partes, cogitationis ca<g ref="char:EOLhyphen"/>rentiam &amp;c.</hi> Quae aſcribere Deo, eſt aſſerere, in natura eſſe Divina brutum aliquid, operation<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſuarum &amp; quae in ſe peraguntur, minimè conſcium; hae &amp; hujuſmodi aliae imaginationes impiae magis horrendum arguunt Atheiſmum, quam revera nullum eſſe Deum, planè affirmare.</p>
+            <pb n="8" facs="tcp:34613:5"/>
+            <p n="9">IX. Infinitae eſt ſapientiae maxima praeſtare, mediis pauciſſimis &amp; ſimpliciſſimis, nempe legibus ſtabilitis &amp; conſtantibus, ordine etiam conſtituto, quae detegere vera eſt Philoſophia; at horum cognitio non habetur, abſtractas tantum introſpiciendo ideas: quis enim inde detexiſſet? Deum animalia creaſſe penè infinitè varia, aut plantas, illa per generationem propagaſſe, &amp; talia habuiſſe organa <hi>&amp;c.</hi> non autem has: ſed ipſa Dei opera exactè contemplando. Experimentalis igitur Philoſophia, ad naturae cognitionem abſolutè neceſſaria eſt: hinc enim diſcimus, uniformitatem &amp; conſtan<g ref="char:EOLhyphen"/>tiam illarum legum, quibus animalia, <hi>v. g.</hi> ejuſdem ſpeciei, ubivis terrarum, eodem formentur modo, <hi>&amp;c:</hi> nec-non Philoſophum admodum decere corum quae ſenſum fugiunt naturam probare, ab analogia &amp; proportione cum iis quae ſub ſenſum cadunt, idque propter uniformitatem Dei legum: at concludendum non eſt cum D. <hi>Malebranch</hi> ea quae, <hi>Aberrationes vocat in natura,</hi> tantum eſſe à Deo, qui voluit illa po<g ref="char:EOLhyphen"/>tius evenire, quam leges ſuas multiplicare, cum entia perfectiora mediis pancioribus &amp; ſimplicior bus reddere non potuerit; quidni haec eveniant propter fines alios &amp; ſe<g ref="char:EOLhyphen"/>cundum leges generaliores pro toto entium rationalium &amp; materialium Syſtemate, ab infinita poſitas ſapientia?</p>
+            <p n="10">X. Pereruditus ſanè Noſtras <hi>D. de Stair,</hi> non minorem in Philoſophia quam juriſprudentia pentiam manifeſtavit; aſt, ſicut illi viſum eſt ab aliis magni nominis diſſentire Philoſophis, ubi illos à veritate aberrare judicavit, ita nos, <hi>ibi spero,</hi> excu<g ref="char:EOLhyphen"/>ſatos habeit, ſi ejus non acquieſcamus deciſionibus, in quibus ſtabilitis naturae legibus, nec-non claris <hi>&amp;</hi> diſtinctis rerum ideis contradicit; nobis fanè amicus ille, ſed magis amica veritas. Cum ab extenſione non autem impenetrabilitate, reliquae omnes materiae, clarè ſequantur proprietates, non haec (ut D. Et alii volunt) ſed illa, ejus principale eſt attributum; neque ex punctis mathematicè indiviſibilibus (ut ait D.) conſtituitur, cum materiam ſine extenſione concipere nequeamus; materia etiam impenetrabilis cum ſit, ejus partes ſibi-invicem occurrentes, neceſſariò reſilire de<g ref="char:EOLhyphen"/>bent, niſi per externam aliquam juxta ſeſe detineantur preſluram, unde falſa eſt D. ſuppoſitio nec-non claris diſtinctiſque materiae &amp; motus ideis contrarium eſt univerſae ejus Philoſophiae fundamentum, <hi>nempe Deum dediſse intrinſecam &amp; invincibilem potenti<g ref="char:EOLhyphen"/>am quibuſdam materiae punctis indiviſibilibus ſupra ſe premendi, ad peculiaria conſtituenda corpuſcula, quae corporum omnium naturalium ſunt ſtamina;</hi> non igitur à quiete particula<g ref="char:EOLhyphen"/>rum materiae, illarum reſultat unio, ut vult <hi>D. Carteſius;</hi> nec ab interna minu<g ref="char:EOLhyphen"/>tarum quarundam particularum preſſurâ, ut aſſerit <hi>D. de Stair,</hi> ſed ab externa ambientis fluidi preſſurâ, ut <hi>D. Perrault</hi> ingenioſè admodum oſtendit.</p>
+            <p n="11">XI. Syſtema Copernicanum caeteris praeferendum omnibus, quod motibus ſimpli<g ref="char:EOLhyphen"/>ciſſimis &amp; maxime aequalibus phoenomena reſolvat. Vult <hi>D. de Stair, Terram eſſe univerſi centrum, circa proprium rotantem axem, in motu diurno, &amp; ſecum ferentem lunam, ejus tanquam ſatellitem, in motu menſtruo, &amp; Solem centrum motus Mercurii &amp; Veneris, &amp; cum illis circumeuntem terram, in motu annuo; &amp;c.</hi> Haec nova ejus Hypotheſis re<g ref="char:EOLhyphen"/>rum naturis minimè convenit: Praeterquam enim quod Epicyclos rurſus introducere cogatur; admittit Solem ignis puriſſimi &amp; lucis vaſtum eſſe globum, terram omneſ<g ref="char:EOLhyphen"/>que planeras opaca eſſe corpora, lucem &amp; calorem indè mutuantia; incongruum eſt ſupponere, illorum duo tantum circa Solem rotare, reliquoſque omnes, motuum ſuorum diverſa habere centra; aut Solem vaſtum ignis liquidi globum, in orbe vaſto, ab aethere circundante, ſolidorum inſtar Planetarum circumferri, &amp; terram,
+<pb n="9" facs="tcp:34613:5"/>ſolidorum &amp; opacorum illorum corporum unum, circa proprium tantum rotare cen<g ref="char:EOLhyphen"/>trum; quibus adde quod aliorum planetarum Satellites, non circa proprium centrum ſed primarium tantum planetam, gyrare videantur, ut in luna obſervamus; Venus igitur circa proprium rotans centrum, nullum alium videtur habere ad Solem reſpectum quam reliqui omnes primarii Planetae, quorum idcirco centrum commune eſt. Hinc totius mundi viſibilis <hi>Syſt. Cart.</hi> naturaliter ſequitur <hi>Stellas nempe &amp; Solem vorticum ingentium cen<g ref="char:EOLhyphen"/>tra conſtituens.</hi> Quod &amp; Creatoris omnipotentiam &amp; ſapientiam evincit, &amp; rerum natu<g ref="char:EOLhyphen"/>ris maximè convenit, in confeſſo enim cum ſit Solem ſtellaſque fixas ignis puri &amp; lucis in<g ref="char:EOLhyphen"/>gentes eſſe globos, Planetas etiam corpora ſolida &amp; opaca. A rerum analogiâ Planetas omnes, animalibus &amp; entibus intelligentibus, eſſe refertos probabile admodum eſt, licet cujus ſint ſpeciei, determinari nequeat; quippe valde incongruum eſt ſupponere, illorum globorum ſolidorum unum, nempe Tellurem quoad Atmoſphaeram, mare, &amp; aridam eſſe repletum, reliquis omnibus vacuis.</p>
+            <p n="12">XII. Maximè intelligibiliter, cohaeſio, elaſticitas &amp; gravitas corporum expli<g ref="char:EOLhyphen"/>cantur, ſupponendo cum <hi>D. Perault,</hi> tria corpuſculorum genera; 1. Cubica aut multilateralia, ex quibus corpora componuntur terreſtria, aëriſque pars craſſior &amp; elaſtica, quae in multis ſeinvicem tangunt lateribus. 2. Globularia, quibus à ſum<g ref="char:EOLhyphen"/>mitate ad terrae centrum, repletur Atmoſphaera. 3. Vorticem Aethereum à terrae centro ad lunam uſque, ex globularibus corpuſculis, praecedentibus millies gracili<g ref="char:EOLhyphen"/>oribus, conſtitutum, qui Aether motu rapido circulariter ab occidente in orientem fertur, ita tamen ut circuli circumſerentiae maximè propinqui, ſequentibus celerius moveantur, &amp; illorum circulorum motus proportionaliter minuatur, prout terrae centro magis appropinquant, propter occurſus corporum terreſtrium, ſicut flumen in medio &amp; ſummitate celerius decurrit quam in fundo aut ad ripas, propter hinc occur<g ref="char:EOLhyphen"/>rentia à terra obſtacula. Hinc liquidò apparet Aetherei hujus vorticis circulos priori<g ref="char:EOLhyphen"/>bus corpuſculis globularibus occurrentes, debere illos ſemper deorſum pellere verſus terrae centrum, cum ſuperiores circuli ſupra ea fortius ſemper premant quam inferi<g ref="char:EOLhyphen"/>ores, quod eſt cauſa gravitatis: globularia etiam illa corpuſcula, ea ratione, cum ſupra cubica (ex quibus terreſtria conſtituntur corpora) premant, eorum efficiunt co<g ref="char:EOLhyphen"/>haeſionem; &amp; prout cubica illa corpuſcula ſe invicem in pluribus aut paucioribus tangunt lateribus, eorum cohaeſio proportionaliter aut major aut minor eſt; quan<g ref="char:EOLhyphen"/>do etiam vi externa ab invicem removentur paululum, preſſura hujus fluidi corpuſ<g ref="char:EOLhyphen"/>culorum globularium à ſummitate atmoſphaerae, eos rurſus collidet, &amp; indè corpo<g ref="char:EOLhyphen"/>rum elaſticitas; quae igitur minimè provenit ab internâ potentiâ à Deo datâ quibuſ<g ref="char:EOLhyphen"/>dam materiae punctis indiviſibilibus (ex quibus haec componuntur corpora) ſeipſa reſtituendi cum de ſtatu naturali detrudantur, ſicut vult <hi>D. de Stair;</hi> eodem quip<g ref="char:EOLhyphen"/>pe jure diceremus cauſam fluxus &amp; refluxus maris eſſe potentiam Aeſtus maris factivam.</p>
+            <p n="13">XIII. Cum materia naturaliter ſit paſſiva, ad motum aut quietem indifferens eſt, in ſtatu itaque in quo eſt, permanet, donec à cauſa aliqua immutetur externa; hinc corpora ſemel mota eodem celeritatis gradu movere pergunt, donec ab aliis immutentur. Nemo jure, aeris elaſticitatem explicandi gratia, cum <hi>D. de Stair</hi> Peripateticam amplecteretur notionem, de cauſa perſeverantiae motus projectorum, aut reflexionis à ſolido corpore, aut motus penduli ultra perpendiculum; nempe quod medium a tergo ratione elateriae, premat, anteriori excuſſo aëre; conſtat enim, an<g ref="char:EOLhyphen"/>terioris aeris reſiſtentiam eſſe majorem alterius preſſurâ, particulae enim aeris elaſticae cum
+<pb n="10" facs="tcp:34613:6"/>ſint, à projecto percuſſae, aliquem inde accipiunt compreſſionis gradum; adeoque propor<g ref="char:EOLhyphen"/>tionalem faciunt reſiſtentiam; hinc eſt, quod ſi in aëre curramus tranquillo, ventum in nos pulſantem ſentiamus, necnon quod globuli è tormentis exploſi, ſagittae de arcubus e<g ref="char:EOLhyphen"/>miſſae, &amp; corporisalicujus in aere circumrotatio, ſtridulum edant ſonum, ab hac etiam medii reſiſtentia provenit, quod in aëre volent aves, alarum verberatione, piſces in mari natent, &amp; cymbae remorum ictibus provehantur.</p>
+            <p n="14">XIV. Quod lucis radii ſolida ſint corpora, certò ſcimus, ſed cujus figurae ar<g ref="char:EOLhyphen"/>duum eſt determinare; ingenioſè admodum <hi>D. Carteſius</hi> pleraque lucis explicavit phaenomena, ipſius naturam in globulorum ſuorum coeleſtium preſſura ponendo, at qui, inde lucis radii in lineis pergerent rectis, diſſiculter concipitur; globuli quippe compacti cum ſint, fieri nequit quin corum unus ſupra duos, quandoque ſaltem premat, &amp; illi duo ſupra tres, &amp; ita deinceps, adeoque radius unus in plures di<g ref="char:EOLhyphen"/>videretur, quod experientiae repugnat. Colores non ſunt lucis modificationes, at om<g ref="char:EOLhyphen"/>nium colorum aggregatum eſt lux, prout evidenter <hi>D. de Newtoun</hi> demonſtravit; lucis radii diverſos habent refrangibilitatis gradus, qui autem refrangibilitatis gradum habent maximum, purpurei, qui minimum, rubri, intermedii vero extulei, viri<g ref="char:EOLhyphen"/>des, &amp; flavi ſemper ſunt; unius coloris radii a reliquis ſemel perfectè ſeparati, nullam unquam ab ullo ſive corpore eos reflectente, ſive medio tranſmittente, coloris mutationem patiuntur. Colores qui in iride &amp; per vitrum triangulare oblongum o<g ref="char:EOLhyphen"/>culo applicatum conſpiciuntur à radiorum diverſorum colorum ſeparatione ab invicem per refractionem, ſecundum diverſos quos habent refrangibilitatis gradus, factam pro<g ref="char:EOLhyphen"/>veniunt. Ratio cur objecta terreſtria unum aliquem particularem exhibent colorem etſi omnium radii ſuper ea incidart, eſt, quia ipſorum ſuperficies ita diſpoſitae ſunt, ut unius coloris radios reflectant, reliquos abſorbeant. Contra hanc theoriam experimenta <hi>D. Mariott;</hi> eam manifeſtè confirmant.</p>
+            <p n="15">XV. Elaſtica vis aeris, ejuſque gravitas ſemel detectae viam aperiunt, ad vento<g ref="char:EOLhyphen"/>rum <hi>&amp;</hi> tempeſtatum cauſas modo intelligibili explicandas: cum enim aeris gravi<g ref="char:EOLhyphen"/>tas non ſemper eadem ſit, ut <hi>ex Mercurii in Barometro mutationibus,</hi> patet; ſupponere licet, quando aer graviſſimus eſt, vapores eſſe ſpecificè leviores, adeoque attolli <hi>&amp;</hi> in aere ſupernatare, <hi>&amp;</hi> quando aer fit levier, vapores eo ſpecificè graviores eſſe ac deprimi; <hi>&amp;</hi> ſi ſubitanea ventorum converſione, aut vento verſus montes flante, cogantur <hi>&amp;</hi> inter ſe collidantur in pluviam diſtillare. Ventus quoque indè naſcitur, quod in uno aliquo loco, diminuta aeris gravitate, Atmoſphaera verſus eum cum impe<g ref="char:EOLhyphen"/>tu ruit, donec aera ad aequilibrium reduxerit: mutatio gravitatis in aere provenire videtur, ab expanſione aut conſtrictione ipſius particularum Elaſticarum.</p>
+            <p n="16">XVI. Ingenioſa ſed parum ſolida eſt, nova quidem <hi>D. Burnet</hi> Hypotheſis, de terrae ante-deluvianae facie. Hodierna terrae ſuperfici<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, fractae equidem corticis ſpe<g ref="char:EOLhyphen"/>ciem praebet fractio tamen minimè videtur facta eſſe tempore <hi>&amp;</hi> modo ab illo definitis: nam praeter intricata, quibus utitur commenta, ut fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnina, ſuper corticem hanc adhuc integram, decurrere faciat; cujus rupturae cauſa naturalis ab illo aſſignata, probabilis haud videtur, nec inde conſequens mutatio; ſupponit enim lineas <hi>Eclipti<g ref="char:EOLhyphen"/>cam &amp; Aequinoctialem</hi> eaſdem tunc fuiſſe, necnon utrumque polum a Sole aequalem habuiſſe diſtantiam, unde corticis arefactio, <hi>&amp;</hi> inde ejus ruptura, quae inclinationem axis terrae ejuſque aecuilibrium mutavit, adeo ut, <hi>Ecliptica</hi> jam 23 <hi>ab. Aequinoctiali diſtet gradibus.:</hi> at perpenſis terrae ſemi-diametri craſſitre, <hi>&amp;</hi> corticis ad illum propor<g ref="char:EOLhyphen"/>tione,
+<pb n="11" facs="tcp:34613:6" rendition="simple:additions"/>ita minuta reperietur, ut nulla ejus fractio aut mutatio, ſenſibilem aliquam im terrae libratione faceret variationem.</p>
+            <p n="17">XVII. Maris ſalſedo provenit a ſalium fodinis in ejus fundo <hi>&amp;</hi> oris. Flumina a pluviis originem ducunt ut evidenter demonſtravit <hi>Anonimus</hi> author Gallici tracta<g ref="char:EOLhyphen"/>tus de illa materia conſcripti.</p>
+            <p n="18">XVIII. Magnetiſmi vis, ultra communem hominum de ea opinionem, longe porrigitur haec quippe qualitas ad ſolum magnetem <hi>&amp;</hi> ferrum reſtringenda non eſt, quin <hi>&amp;</hi> integra tellus tanquam unus ingens magnes conſideranda eſt; hinc, ejus axis Paraleliſmum perpetuò obſervat, necnon vortices ac Planetae mutuos reſpectus <hi>&amp;</hi> debitas diſtantias tuentur.</p>
+            <p n="19">XIX. Nemo unquam per hactenus cognitas motus leges, alicujus plantae aut animalis formationem intelligibiliter explicare potuit; plantarum enim <hi>&amp;</hi> anima<g ref="char:EOLhyphen"/>lium minutiſſimum, non aliter quam per propagationem à propria ſpecie provenire poteſt, eorum itaque fabricatio ſpeciali potentiae Divinae artificio deputanda eſt, nul<g ref="char:EOLhyphen"/>lis naturae legibus hucuſque notis, multò minus fortuito atomorum concurſu, (ut ridicule ſomniant nonnulli) perficitur. Plantae illae quae <hi>(antiquorum judicio)</hi> nul<g ref="char:EOLhyphen"/>lum habuere ſemen, <hi>v g. Filix &amp; omnes herbae capillares,</hi> eo maxime abundare deprehenduntur: plantarum ſemina nihil ſunt praeter plantulas ejuſdem ſpeciei, una cum placentis, ſuis membranis, involutas.</p>
+            <p n="20">XX. Citra dubium, tutior longè eſt <hi>pharmacorum quam preparationum Chimica<g ref="char:EOLhyphen"/>rum uſus:</hi> Plantae enim omnes tam herbae quam arbores, nil aliud ſunt niſi magna variorum artificioſorum <hi>&amp;</hi> exilium <hi>tuborum Chymicorum, Alembicorum, Retortarum, Cucurbitularum, &amp;c.</hi> multitudo, in uno ingenti laboratorio poſita, alternas <hi>&amp;</hi> reci<g ref="char:EOLhyphen"/>procas caloris <hi>&amp;</hi> frigoris in gradu ac proportione, vices recipiens, atque ita <hi>conco<g ref="char:EOLhyphen"/>ctione, circulatione, diſtillatione, praecipitatione, &amp;c.</hi> magnam <hi>aquarum, spirituum, oleorum, eſſentiarum, ſalium, &amp;c.</hi> varietatem de terra extrahunt ac preparant, pro vita <hi>&amp;</hi> valetudi<g ref="char:EOLhyphen"/>ne corporis humani, quae, noſtrae praeparationes Chymicae vitiant <hi>&amp;</hi> corrumpunt: hinc eſt quod <hi>Americani</hi> per ſimplicium herbarum uſum, majores abſolvant curationes, quam omnium (jam in uſu) praeparationum Chymicarum ope, perfici poſſunt.</p>
+            <p n="21">XXI. In novum quaſi mundum introducit nos <hi>D. Leewhenoeck,</hi> dum ad ocu<g ref="char:EOLhyphen"/>lum demonſtrat, <hi>omnium marium ſemina animalculis repleta eſſe;</hi> immeritò tamen propterea repudiat ſententiam de <hi>animalium formatione ex ovo in foeminis;</hi> Cum hae duae opiniones, una conſiſtere poſſint, <hi>&amp;</hi> probabile videatur, <hi>omne animal formari ex animalculo &amp; in ovo,</hi> veriſimile quippe eſt, animalcula iſta non poſſe grandeſ<g ref="char:EOLhyphen"/>cere niſi in propriam incidant cicatriculam, ut de pullo in ovo manifeſtum eſt; nec alia aſſignari poteſt ratio, cur multa ipſorum millia ſimul non accreſcant, niſi <hi>quod ita formata ſit Cicatricula, ut unicum tantum capere poſſit:</hi> praeterea etiam foetus cum membranis ſuis in ovi figura, ſatis diu ſolutus, priuſquam placentam emittat, <hi>quâ illi adhaereat,</hi> ad eum apprehendendum.</p>
+            <p n="22">XXII. Omnium Dei operum maximum miraculum eſt homo, qui medius, inter ſoi itualem <hi>&amp;</hi> corporalem mundum ex utroque participat, ſi cum univerſo conferatur, atomus; ſi cum minutioribus creaturis, mundus eſt: ejus corpus ar<g ref="char:EOLhyphen"/>tificioſa eſt machina, ex innumeris machinulis coagmentata, quarum unaquaeque plu<g ref="char:EOLhyphen"/>ribus inſervis uſibus, &amp; omnes ita ab invicem dependent, ut unius laeſio totius corpo<g ref="char:EOLhyphen"/>ris motum perturbet, omnes ex vadi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; diverſis <hi>tubulis</hi> ac <hi>liquoribus</hi> componuntur.
+<pb n="12" facs="tcp:34613:7"/>Cor peculiatis eſt muſculus, cujus ſibrae camoſae &amp; ſpirales ejus truncum, tendones aùtem illius auticulas confi<g ref="char:EOLhyphen"/>ciunt: muſculati ſuo motu ſanguinem in <hi>ſyſtole</hi> expellit; qui proinde nulla ſui <hi>accenſione</hi> aut <hi>rareſactione</hi> propel<g ref="char:EOLhyphen"/>litur, ut exiſtimavit <hi>Cart.</hi> circulatio ſanguinis ad oculum conſpicua fit <hi>vitrorum</hi> ope in <hi>lacertis aquaticis:</hi> ejuſ<g ref="char:EOLhyphen"/>que tubor ex infinita globulorum flavorum multitudine in <hi>fluido chriſtallino</hi> natantium otitur. Pulmones con<g ref="char:EOLhyphen"/>ſtituunt, innumerae <hi>arteriae aſperae</hi> ramificationes in <hi>cellulas</hi> &amp; <hi>veſitulas</hi> deſinentes, quae omnes <hi>arteriae venoſae</hi> &amp; <hi>venae arterioſae</hi> ramificationibus conteguntur, &amp; particulas <hi>ultro-aërias</hi> ad ſanguinem defetunt. <hi>Chyli, limphae, kilis, liquoris nervoſi, ſalivae, urinae, ſudoris omniumque corporis liquorum ſecretiones, glaudularum</hi> ope perficiuntur, quae ipſorum ſunt quaſi <hi>filtra,</hi> quorum ſtructura vitrorum induſtriâ nondum aſſecuta eſt.</p>
+            <p n="23">XXIII. Nihil de mente humana cognoſcimus, niſi perſenſationem: cogitatio ab ejus eſſentia inſeperabilis eſt: fieri poteſt ut infinitarum potentiarum &amp; innumerarum gaudii ac doloris aeterni ſcaturiginum nobis igno<g ref="char:EOLhyphen"/>tarum, capax ſit: ut perfectiones ſubſtantiales, quas entibus creatis conceſſit Deus, abſolutae ſunt &amp; ex volun<g ref="char:EOLhyphen"/>tate Dei immutabiles; modales vero conditionaſes tantum, ita ſe res habet cum anima, eſſentiales &amp; abſolutae ejus perfectiones ſunt <hi>cogitatio, intellectio, voluntas, &amp; libertas,</hi> quae nunquam pereunt, modales à recto illarum uſu &amp; exercitio dependent, &amp; ſicut pulchritudo &amp; perfectio materiae, in abſoluto &amp; eſſentiali ejus attributo, <hi>i. e. ex<g ref="char:EOLhyphen"/>tenſione,</hi> ſitae non ſunt, ſed in varietate &amp; ordine modificationum quibus <hi>in Solem, ſtellas, planetas, plantas, anima<g ref="char:EOLhyphen"/>lia</hi> &amp;c. diſponitur; ita pulchritudo &amp; perfectio animae, in abſolutis &amp; eſſentialibus ipſius attributis poſitae non ſunt, ſed in debitis earum modificationibus quae obtinentur, exhibendo <hi>noſtram libertatem, intellectum, amorem,</hi> á Deo probanda, replenda &amp; perficienda.</p>
+            <p n="24">XXIV. In corpore incola tantum non eſt anima, ſicut in regno <hi>Rex,</hi> ad illud regendum, aut in navi <hi>Nauta,</hi> ad illam gubernandam, ſed intimè admodùm eſt Corpori unita: de hujus unionis natura, nil aliud novimus, niſi quod per tales &amp; tales particulates in corpore motus, tales &amp; tales excitentur in mente cogitationes, &amp; per tales &amp; tales cogitationes &amp; voluntatis actus in mente, tales &amp; tales excitentur in corpore motus: ab hac enim unione oriuntur omnes ſenſationes, <hi>ſaemis &amp; ſitis lucis &amp; colorum, ſonorum &amp; maſicae, caloris &amp; frigoris, doloris &amp; voluptatis</hi> &amp;c. At quare hujuſmodimotus tales excitent ſenſationes, <hi>v. g. plumae attrecta<g ref="char:EOLhyphen"/>tio, voluptatem, &amp; acieniae punctio, dolerem;</hi> praeter Dei voluntatem, nullam novimus rationem: ſed admi<g ref="char:EOLhyphen"/>randa eſt Dei bonitas, quod, viâ tam brevi &amp; expeditâ nobis offendit, quid ſit, vitae corporeae commodum aut incommodum, ut congruenter eo aut utemur aut vitemus. Regimen ad bonum publicum promovendum op<g ref="char:EOLhyphen"/>timum eſt inſtrumentum, legum quippe &amp; poenatum ſuarum vigore, ſpe, &amp; timore, domat fetiratem naturae hu<g ref="char:EOLhyphen"/>manae, quae corrupta, brutis magis eſt immanſuem: hominum <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> enim &amp; paſſiones ad illud pro publico univerſi commodo praeſtandum, excitat, adquod charitate naturaliter ducerentur, ſi modo eâ imbuti eſſent; optimè ſanè conſtitutum eſt illud regimen; quod conſervate &amp; ſuſtentare uniuſcujuſque eſt commodum. Om<g ref="char:EOLhyphen"/>nium regiminum, optima eſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; ſupremo magiſtratui, ſub nullo praetextu reſiſtere licet, <hi>&amp;c.</hi>
+            </p>
+            <p n="25">XXV. Philoſophiae pars praeſtantiſſimae eſt Aethica, ſeu debitam noſtri ipſius gubernationem docens, omneſ<g ref="char:EOLhyphen"/>que partes reliquae parvo ſunt uſui, ſi in hunc non ordinentur finem. In <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Stoica</hi> non conſiſtat virtus, ad quam debitus paſſionum uſus &amp; regimen admodum conducunt. <hi>Suprema naturae lex non eſt ſui praeſervatio mo<g ref="char:EOLhyphen"/>ralitatis Heb.</hi> licet fundamentum, nec <hi>ſtudium boni publici</hi> totius univerſi, <hi>D. Cumb.</hi> utpote ſentimentum <hi>(hoc enim eſſes hominem creaturam Deo aequare, utriuſque nempe commodum tanquam unum communem fidem proſequi;)</hi> at eſt Dei amor propter<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſecundaria etiam lex eſt, <hi>omnium hominum amor propter Deum;</hi> officium enim indè reſultans univerſale &amp; ſummum eſt <hi>à Deo tptalis &amp; abſolutae dependentia; reſignatio intellectus, voluntatis &amp; libertatis, ut ex<g ref="char:EOLhyphen"/>erecantur, repleantur, &amp; perficiantur ab illo.</hi> Sicut mens humana à ſe non eſt, ita nec ejus illuminationeque foeli<g ref="char:EOLhyphen"/>citas; aequé hallucinantur igitur, in ſui complacentia &amp; acquieſcentia ſummum bonum conſtituentes &amp; in ex<g ref="char:EOLhyphen"/>ternorum fruitione: ſumma haec eſt ſuperbia, <hi>propria eſſe idola, &amp; abnegare Deum, ab illo enim, per illum, &amp; ad illam omnia; Aethnicorum</hi> igitur philoſophorum, &amp; <hi>Heroum Romanorum</hi> apparentes virtutes ſplendida fuere vitia.</p>
+            <p n="26">XXVI. Propoſitiones <hi>Euclideanae</hi> ſunt omni commendatione ſuperiores. Nobiliſſimum de circulo qua<g ref="char:EOLhyphen"/>drando problema per aliquot ſaecula praeſtantiſſimorum geometrarum ingenia exercuit, attamen non adhuc inventa eſt circuli quadratura. Inter omnes planetarum motus, ſolis motus uniformitate, &amp; aequalitate, reliquorum motus <hi>(ſecundum ſyſtema Ptolemaicum)</hi> longe ſuperat &amp; antecellit. Datur angulus, licet com<g ref="char:EOLhyphen"/>ponatur ex angulo qui minor eſt recto, &amp; ex angulo, qui minor eſt omni acuto, eſt tamen recto aequa<g ref="char:EOLhyphen"/>lis. Commune axioma eſt, atque adeo conceſſum ab omnibus, in viſione directa, quae propiora ſunt, majora apparere, quippe quia ſub angulo majori videntur; at nos aſſerimus, etiam in directa viſione propiora non videri aliquando majora. Dato triangulo, ſuper baſi illius trianguli, conſtrui poteſt al<g ref="char:EOLhyphen"/>terum triangulum interius contentum cujus duo latera ſimul ſumpta ſint aequalia duobus lateribus exte<g ref="char:EOLhyphen"/>rioribus continentibus ſimul ſumptis dati trianguli; &amp; non ſolum aequalia, ſed etiam majora duobus lateribus dati trianguli ſimul ſumptis.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34613:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
